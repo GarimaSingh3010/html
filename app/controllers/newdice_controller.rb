@@ -1,0 +1,2 @@
+class NewdiceController < ApplicationController
+end
